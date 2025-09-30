@@ -30,3 +30,17 @@ img{
     grid-row: 1;
     padding: 5px;
 }
+
+.Hacker{
+    grid: flex;
+    grid-column: 1;
+    grid-row: 2;
+    padding: 5px;    
+}
+
+.Victoria{
+    grid: flex;
+    grid-column: 2;
+    grid-row: 2;
+    padding: 5px;
+}
