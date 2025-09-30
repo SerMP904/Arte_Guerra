@@ -18,6 +18,7 @@ header{
     box-shadow: #d6c2c2;
     text-shadow: #d612c2;
     margin: 10px, 20px;
+    position: sticky;
 
 }
 .pintar{
