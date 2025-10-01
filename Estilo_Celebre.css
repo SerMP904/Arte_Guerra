@@ -1,8 +1,7 @@
 .grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    align-self: center;
-    align-items: center;
+    justify-content: center;
 }
 .box1{
     box-sizing: content-box;

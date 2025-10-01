@@ -1,5 +1,5 @@
 nav{   
-    text-transform: uppercase;
+    font-size: 20px;
 }
 /*Ejercicio11*/
 h1{ 
@@ -72,6 +72,9 @@ section{
 }
 footer{
     color: rgb(56, 31, 1);
+    justify-content: center;
+    justify-self: center;
+    font-size: 32px;
 }
 .banner{
     position: fixed;
