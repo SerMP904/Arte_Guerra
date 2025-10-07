@@ -50,6 +50,17 @@ header{
     text-align: justify;
 }
 
+.copyright{
+    padding: 30px;
+    background-color: #d6c2c2;
+    color: #d6c2c2;
+    font-size: 9px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
 /*Ejercicio10*/
 body{   
     font-family: Arial, Helvetica, sans-serif;
