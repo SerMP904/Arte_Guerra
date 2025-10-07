@@ -3,6 +3,8 @@
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
 }
+
+/* Esto no importa*/
 .box1{
     box-sizing: content-box;
     padding: 20px;
@@ -20,11 +22,15 @@
     max-width: 100px;
     border: solid beige 5px;
 }
+
+/* Las imágenes tienen los mismos parámetros*/
 img{
-    width: 700px;
+    width: 650px;
     height: 450px;
     align-self: center;
 }
+
+/* Clase principal*/
 .Sun{
     grid: flex;
     padding: 500px;
@@ -34,6 +40,9 @@ img{
     border-style: dashed;
 }
 
+
+/*Clase secundaria*/
+/* atención a la estructura column y row*/
 .Historial{
     grid: flex;
     grid-column: 1;

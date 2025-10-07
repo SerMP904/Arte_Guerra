@@ -21,6 +21,7 @@ header{
     background-color: black;
 }
 
+/*Para que el tope te siga*/
 .sticky{
     position: -webkit-sticky;
     position: sticky;
@@ -31,6 +32,7 @@ header{
 #sobre-el-autor{
     font-size: 28px;
 }
+/*Ni idea*/
 .pintar{
     position: relative;
     background-color: rgba(182, 168, 194, 0.699);
