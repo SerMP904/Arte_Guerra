@@ -121,3 +121,22 @@ img{
     grid-row: 4;
     padding: 5px;
 }
+.Politica{
+    grid: flex;
+    grid-column: 1;
+    grid-row: 5;
+    padding: 5px;
+}
+.Gimnasio{
+    grid: flex;
+    grid-column: 2;
+    grid-row: 5;
+    padding: 5px;
+}
+
+.Error{
+    grid: flex;
+    grid-column: 3;
+    grid-row: 5;
+    padding: 5px;
+}
