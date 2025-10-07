@@ -1,8 +1,7 @@
 .grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    align-self: center;
-    align-items: center;
+    justify-content: center;
 }
 .box1{
     box-sizing: content-box;
@@ -90,5 +89,26 @@ img{
     grid: flex;
     grid-column: 3;
     grid-row: 3;
+    padding: 5px;
+}
+
+.Trust{
+    grid: flex;
+    grid-column: 1;
+    grid-row: 4;
+    padding: 5px;
+}
+
+.Socialdemocracia{
+    grid: flex;
+    grid-column: 2;
+    grid-row: 4;
+    padding: 5px;
+}
+
+.Frío{
+    grid: flex;
+    grid-column: 3;
+    grid-row: 4;
     padding: 5px;
 }
